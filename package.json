@@ -3,7 +3,7 @@
   "locals": {
     "page_size": "10",
     "hide_dates": false,
-    "date_display": "D MMMM Y"
+    "date_display": "D MMM Y"
   },
   "views": {
     "tagged.html": {
