@@ -23,3 +23,5 @@ These are the files of the template that I called Jolly, after my own website **
 - On this template, the _search_, _tagged_, and _archive_ pages use the same code: if you want to remove the _tagged_ part, be sure to check the three pages.
 
 Finally, if you see anything wrong with this template or one of its files, well, you know what to do.
+
+→ [**DEMO** (my own website)](https://thejollyteapot.com)
