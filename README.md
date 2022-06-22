@@ -24,4 +24,4 @@ These are the files of the template that I called Jolly, after my own website **
 
 Finally, if you see anything wrong with this template or one of its files, well, you know what to do.
 
-→ [**DEMO** (my own website)](https://thejollyteapot.com)
+→ [**DEMO** (my own website, with tiny changes on :hover)](https://thejollyteapot.com)
